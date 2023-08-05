@@ -1,0 +1,32 @@
+/*
+1. Control Structures :
+a.Write a C++ program to check whether a given number is even or odd using the if statement.
+b.Create a program that prompts the user for their age and displays whether they are a child,
+teenager, or adult using the if - else statement.
+c.Implement a menu - driven program that performs basic arithmetic operations(addition,
+	subtraction, multiplication, division) based on user input.Use a switch statement for the menu
+	selection.
+
+2. Conditional Statements(if, if - else, switch) :
+	a.Write a program that takes three integer inputs and finds the largest of the three using if - else
+	statements.
+	b.Create a simple calculator program that allows the user to input two numbers and an arithmetic
+	operator (+, -, *, or /) to perform the operation using if - else statements.
+	c.Write a program to determine the type of a given character(uppercase letter, lowercase letter,
+		digit, special character) using if - else statements.
+3. Looping Statements(while, do - while, for) :
+	a.Write a C++ program to print the first 10 natural numbers using a while loop.
+	b.Create a program that takes an integer input from the user and calculates the factorial of that
+	number using a for loop.
+	c.Write a program that uses a do - while loop to ask the user for a number until the user enters a
+	negative number.
+	
+4. Break and Continue Statements :
+a.Write a program to find the sum of all positive integers entered by the user until they enter a
+negative number.Use a break statement to terminate the loop.
+b.Implement a program that prints all odd numbers from 1 to 50, but skips the number 13 using
+continue statement.
+c.Create a simple guessing game where the program generates a random number between 1 and
+100, and the user has to guess the number.Use a break statement to exit the loop when the user
+guesses the correct number
+*/
