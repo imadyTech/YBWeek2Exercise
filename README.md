@@ -1,2 +1,2 @@
-# YBWeek2Exercise
-This project is the week 2 exercise for sharing between Yoobee MSE 2023 classmates.
+# Yoobee NZ MSE 2023
+This project is the exercise code for sharing between Yoobee MSE classmates.
