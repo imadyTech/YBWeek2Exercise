@@ -27,9 +27,6 @@
     <ClCompile Include="YBRental.cpp">
       <Filter>Modules</Filter>
     </ClCompile>
-    <ClCompile Include="ScreenTest.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -73,6 +70,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="4C-GuessingGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyPressTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
 #include "startUP.h"
-
 using namespace std;
 
 void GuessGame(MyClass obj);
@@ -19,10 +18,13 @@ void CheckAge(MyClass obj);
 void EvenOdd(MyClass obj);
 bool PromptTryAgain();
 void PromptAnyKey();
+int getkey();
 
 int main()
 {
 	MyClass exerciseObject = MyClass();
+	//int key = getkey();
+
 
 	char selection;
 
