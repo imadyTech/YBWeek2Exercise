@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{92b2b224-bae6-4c31-a378-508e9fc3600a}</ProjectGuid>
-    <RootNamespace>WinConsoleTrial</RootNamespace>
+    <ProjectGuid>{b282b1f5-0959-4a71-8aa3-d89656a7b2a9}</ProjectGuid>
+    <RootNamespace>Yoobee1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Week2Exercise</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,11 +128,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleSample.cpp" />
-    <ClCompile Include="ConsoleSample1.cpp" />
-    <ClCompile Include="GridPrintSample.cpp" />
-    <ClCompile Include="KeyPressTest.cpp" />
-    <ClCompile Include="WinConsoleTrial.cpp" />
+    <ClCompile Include="1C-SimpleMenu.cpp" />
+    <ClCompile Include="2A-MaxValue.cpp" />
+    <ClCompile Include="2B-Calculator.cpp" />
+    <ClCompile Include="2C-CharacterType.cpp" />
+    <ClCompile Include="3A-NaturalNum.cpp" />
+    <ClCompile Include="3B-Factorial.cpp" />
+    <ClCompile Include="3C-NegativeInput.cpp" />
+    <ClCompile Include="4A-SumAll.cpp" />
+    <ClCompile Include="4B-OddNums.cpp" />
+    <ClCompile Include="4C-GuessingGame.cpp" />
+    <ClCompile Include="myclass.cpp" />
+    <ClCompile Include="1A-EvenOrOdd.cpp" />
+    <ClCompile Include="1B-CheckYourAge.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Week2Tasks.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myclass.h" />
+    <ClInclude Include="startUP.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
