@@ -127,10 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Week3-Arrays and Pointers.cpp" />
+    <ClCompile Include="..\Week3-Functions\CPP_Practice_Prompts.cpp" />
+    <ClCompile Include="CPP_Practice_ArraysAndPointers.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Practice - Arrays and Pointers.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CPP_Practice_ArraysAndPointers.h" />
+    <ClInclude Include="CPP_Practice_Prompts.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

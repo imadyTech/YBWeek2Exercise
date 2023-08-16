@@ -129,7 +129,7 @@
   <ItemGroup>
     <ClCompile Include="CPP_Practice_Functions.cpp" />
     <ClCompile Include="CPP_Practice_Prompts.cpp" />
-    <ClCompile Include="Week3-Functions.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Practice - Functions.pdf" />

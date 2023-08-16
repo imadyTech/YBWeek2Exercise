@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
+#include "CPP_Practice_ArraysAndPointers.h"
+using namespace std;
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "WEEK3 PRACTICES\nArrays and Pointers\n" << endl;
+    practice();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
